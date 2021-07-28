@@ -1,4 +1,5 @@
 from django.conf import urls
+from django.conf.urls import url
 from django.urls import path
 from rango import views
 
